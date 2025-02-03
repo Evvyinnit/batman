@@ -28,7 +28,7 @@ const Nav = () => {
             <Link to='/comics' className='nav--link'>COMICS</Link>
             <Link to='/games' className='nav--link'>GAMES</Link>
             <p className='made'>
-                <a href='https://peterweiser.com' target='_blank'>Created by Peter Weiser</a><br />
+                <a href='https://peterweiser.com' target='_blank'>Created by Nimesh D. Bandara</a><br />
                 <a href='https://comicvine.gamespot.com' target='_blank'>Powered by ComicVine</a><br />
                 2023
             </p>
