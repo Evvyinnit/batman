@@ -2,7 +2,7 @@ const batmanData = {
     id: `4005-1699`,
     name: `Batman`,
     image: `./assets/cards/batman.webp`,
-    desc: `තම ප්‍රකෝටිපති දෙමාපියන් ඝාතනය කිරීම කුඩා කාලයේදීම දුටු බෲස් වේන් ඔවුන්ගේ මරණයෙන් පළිගැනීමට හිතා ගත්තා. ඔහු මානසික හා ශාරීරික පරිපූර්ණත්වය ළඟා කර ගැනීමට, සටන් කලාවන්, රහස් පරීක්ෂක කුසලතා සහ අපරාධ මනෝවිද්‍යාව ප්‍රගුණ කිරීමට පුළුල් ලෙස පුහුණු විය. තම කුඩා කල තිබූ බිය තම ශක්තිය කර ගනිමින් වවුලෙකු ලෙස සැරසී, අධි තාක්‍ෂණික අවි ගබඩාවක් භාවිතා කරමින්, ඔහු ජනප්‍රිය බැට්මෑන් බවට පත්විය.`
+    desc: `Bruce Wayne, who witnessed the murder of his billionaire parents as a child, swore to avenge their deaths. He trained extensively to achieve mental and physical perfection, mastering martial arts, detective skills, and criminal psychology. Costumed as a bat to prey on the fears of criminals, and utilizing a high-tech arsenal, he became the legendary Batman.`
 }
 
 export default batmanData;
