@@ -115,7 +115,7 @@ a {
 
 /* === Background Image Styling === */
 body {
-    background-image: url('public/bg.jpg'); /* Update this with the correct path */
+    background-image: url('/bg.jpg'); /* Update this with the correct path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
