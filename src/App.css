@@ -64,7 +64,7 @@ a {
     }
 }
   
-  @keyframes fadeOut {
+@keyframes fadeOut {
     from {
         opacity: 1;
         transform: translate(0px, 0px);
@@ -111,4 +111,13 @@ a {
         margin-top: 0;
         margin-bottom: 2vw;
     }
+}
+
+/* === Background Image Styling === */
+body {
+    background-image: url('public/bg.jpg'); /* Update this with the correct path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
